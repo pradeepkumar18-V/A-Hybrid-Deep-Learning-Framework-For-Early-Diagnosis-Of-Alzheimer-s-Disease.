@@ -1,4 +1,4 @@
-# A-Hybrid-Deep-Learning-Framework-For-Early-Diagnosis-Of-Alzheimer-s-Disease.
+# A Hybrid Deep Learning Framework For Early Diagnosis Of Alzheimer's Disease.
 Final Year Major Project | Python | Deep Learning | Healthcare AI
 
 1. Developed a project to Detect Alzheimer's disease using Brain MRI images.
